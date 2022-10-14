@@ -1,4 +1,4 @@
-def main(a):
+def main(number):
     """Check the natural number.Natural numbers are numbers used in counting.
     Args:
         a: int
