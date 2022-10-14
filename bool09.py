@@ -1,4 +1,4 @@
-def main(number):
+def main(a):
     """Check the natural number.Natural numbers are numbers used in counting.
     Args:
         a: int
@@ -6,5 +6,5 @@ def main(number):
         bool
     """
     # Write your code here
-    return number>=0
+    return a>=0
 print(main(-1))
