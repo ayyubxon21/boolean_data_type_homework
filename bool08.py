@@ -11,4 +11,4 @@ def main(a):
         return True
     if a<0:
         return False 
-print(main(-9))
+print(main(9))
