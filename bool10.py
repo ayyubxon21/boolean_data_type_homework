@@ -8,5 +8,5 @@ def main(a):
     """
     # Write your code here
     
-    return sqrt(a)%2==0
+    return sqrt(a)%1==0
 print(main(-1))
