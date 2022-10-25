@@ -9,4 +9,4 @@ def main(a):
     # Write your code here
     
     return sqrt(a)%1==0
-print(main(-1))
+print(main(1))
