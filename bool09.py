@@ -6,8 +6,8 @@ def main(a):
         bool
     """
     # Write your code here
-    if a>0:
+    if a>=0:
         return True
     if a<0:
         return False 
-print(main(1))
+print(main(0))
