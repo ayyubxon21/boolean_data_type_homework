@@ -10,7 +10,7 @@ def main(a,b):
     # Write your code here
    
     return a==b
-print(main(1,1))
+print(main(2,1))
 
 
   
